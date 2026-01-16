@@ -12,5 +12,7 @@
             "email": "vardapetyannarek0@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ramsey/uuid": "^4.9"
+    }
 }
